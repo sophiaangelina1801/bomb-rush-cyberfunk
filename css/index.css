@@ -1,0 +1,68 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(159, 255, 223)
+}
+h2{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(159, 255, 223)
+}
+h3{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(159, 255, 223)
+}
+h4{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(159, 255, 223)
+}
+h5{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(159, 255, 223)
+}
+p{
+    font-family: "Times New Roman", Times, Baskerville, Georgia, serif;
+    font-size: 2rem;
+    text-align: center;
+    margin-top: 5%;
+    color: rgb(255, 255, 255)
+}
+img{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+}
+iframe{
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.container {
+    padding: 0px 50px;
+
+
+}
